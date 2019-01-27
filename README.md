@@ -1,6 +1,8 @@
 # English
 ## 英単語の追加方法
 
+単語教材ファイルをプロジェクト内に作成し、Title.csvに作成したファイル、教材名を追記することで学習単語を追加できます。
+
 - 1,WordFile(フォルダ)に単語ファイルを追加
   - ![](https://user-images.githubusercontent.com/33982122/51800350-175b0280-2271-11e9-99cb-2387b2ec8b6b.png)
   - WordFile内で右クリック→ NewFile→ Other/Enptyからファイルを作成してください。
